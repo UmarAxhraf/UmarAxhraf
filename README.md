@@ -1,5 +1,5 @@
 <h1 align="center">Hi  👋 , I'm Umar Ashraf</h1>
-![Umar Ashraf](https://media-exp1.licdn.com/dms/image/C4D03AQHgZ_TVvv-0Cg/profile-displayphoto-shrink_800_800/0/1654585463715?e=1670457600&v=beta&t=7MraqAeB2wIAaD8VcxW_zlhs0zmb2SyVDat-y-1w-ms)
+![Umar Ashraf](https://avatars.githubusercontent.com/u/79502599?v=4)
 <h3 align="left">I'm a Frontend Developer who love to design and code. I'm working with ReactJs, NextJs to build the web application interfaces and functionalities.</h3>
 
 - 🔭 I’m currently working as Frontend Developer
