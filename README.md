@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **NodeJs**
 
-- 📫 How to reach me **https://umarashraf.versel.com**
+- 📫 How to reach me **https://umarashraf.versel.app**
 
 <br><h3 align="left" ><u>Connect with me:</u></h3><br>
 
