@@ -5,6 +5,7 @@
 - 🔭 I’m currently working as Frontend Developer
 
 - 🌱 I’m currently learning **NodeJs**
+<!--- - 📫 How to reach me **https://linktr.ee/umar_axhraf** ---!>
 
 <!--- - 📫 How to reach me **https://umarashraf.versel.app** ---!>
 
@@ -33,4 +34,4 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=UmarAxhraf&show_icons=true&locale=en&layout=compact&theme=dark" alt="Umar's Github Activity Graph" />
 <hr>
 <p align="center">Made with ❤️ for a better web. </p>
-<p align="center"> © 2022 Umar Ashraf.</p> <hr>
+<p align="center"> © 2023 Umar Ashraf.</p> <hr>
