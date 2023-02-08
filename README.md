@@ -2,9 +2,9 @@
 
 <h3 align="left">I'm a Frontend Developer who love to design and code. I'm working with ReactJs, NextJs to build the web application interfaces and functionalities.</h3>
 
-- 🔭 I’m currently working as Frontend Developer
+- 🔭 I’m currently working as Frontend Developer.
 
-- 🌱 I’m currently learning **NodeJs**
+- 🌱 I’m currently learning **NodeJs**.
 <!--- - 📫 How to reach me **https://linktr.ee/umar_axhraf** ---!>
 
 <!--- - 📫 How to reach me **https://umarashraf.versel.app** ---!>
