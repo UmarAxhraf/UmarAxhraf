@@ -1,6 +1,6 @@
-<p align="center"><img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"  /></p>
+<p align="center"><img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"  /></p><br>
 
-<h1 align="center">Hi  👋 , I'm UMAR ASHRAF </h1>
+<h1 align="center">Hi  👋 , I'm UMAR ASHRAF </h1><br>
 
 <h3 align="left">I'm a Frontend Developer who love to design and code. I'm working with ReactJs, NextJs to build the web application interfaces and functionalities.</h3>
 
