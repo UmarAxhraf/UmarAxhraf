@@ -12,12 +12,12 @@
 <br><h3 align="left" ><u>Connect with me:</u></h3><br>
 
 <p align="left">
-&emsp;&emsp;&emsp;<a href="https://twitter.com/iUmarAshraf" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" alt="iUmarAshraf" height="30" width="40" /></a>&emsp;&emsp;
-<a href="https://www.linkedin.com/in/umarashraf17/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="https://www.linkedin.com/in/umarashraf17/" height="30" width="40" /></a>&emsp;&emsp;
+&emsp;&emsp;&emsp;<a href="https://twitter.com/meumarashraf" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" alt="iUmarAshraf" height="30" width="40" /></a>&emsp;&emsp;
+<a href="https://www.linkedin.com/in/meumarashraf/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="https://www.linkedin.com/in/meumarashraf/" height="30" width="40" /></a>&emsp;&emsp;
 <a target="_blank" href="https://www.instagram.com/meumarashraf/">
   <img align="center" alt="Instagram" height="30" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>&emsp;&emsp;
-  <a target="_blank" href="https://linktr.ee/umar_axhraf">
+  <a target="_blank" href="https://linktr.ee/meumarashraf">
   <img align="center" alt="Instagram" height="30" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@8.9.0/icons/linktree.svg" />
 </a>&emsp;&emsp;
 <a target="_blank" href="mailto:umarashraf7827@gmail.com">
