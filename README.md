@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working as Frontend Developer.
 
-- 🌱 I’m currently learning **NodeJs**.
+- 🌱 I’m currently learning **Angular**.
 - 📫 How to reach me **https://umarashraf.vercel.app**.
 
 <br><h3 align="left" ><u>Connect with me:</u></h3><br>
