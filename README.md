@@ -2,9 +2,9 @@
 
 <h1 align="center">Hi  👋 , I'm UMAR ASHRAF </h1><br>
 
-<h3 align="left">I'm a Frontend Developer who love to design and code. I'm working with ReactJs, NextJs to build the web application interfaces and functionalities.</h3>
+<h3 align="left">I'm a Frontend Web Developer who love to design and code. I'm working with ReactJs, NextJs to build the web application interfaces and functionalities.</h3>
 
-- 🔭 I’m currently working as Frontend Developer.
+- 🔭 I’m currently working as Frontend Web Developer.
 
 - 🌱 I’m currently learning **Angular**.
 - 📫 How to reach me **https://umarashraf.vercel.app**.
